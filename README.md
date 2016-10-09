@@ -1,5 +1,5 @@
-This Matlab program performs image recognition using backpropagation algorithm in neural network.It recognises 9 categories of images by default that can be changed accoerding to the requirement. The images belonging to various categories were downloaded via a compressed zip file http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz
-Principle component analysis is used to extract useful features of the image.  
+This Matlab program performs image recognition using backpropagation algorithm in neural network.It recognises 9 categories of images by default that can be changed accoerding to the requirement. The images belonging to various categories were downloaded via a compressed zip file http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz. Download and extract 101 ObjectCategories in your project folder.
+Principle component analysis is used to extract useful features of the image.   
 
 Following .m files are used throughout the program:-
 
